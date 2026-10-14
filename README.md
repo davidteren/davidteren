@@ -23,11 +23,11 @@ Mutation testing for Ruby. Mutineer changes your code one small step at a time, 
 
 [Read about Mutineer](https://davidteren.github.io/mutineer/) · [See a sample report](https://davidteren.github.io/mutineer/sample-report.html) · [Source](https://github.com/davidteren/mutineer)
 
-### Intent Engineering <sub>fig. 2</sub>
+### Expectation Fit <sub>fig. 2</sub>
 
-A Claude Code plugin that reviews plans, code changes, and whole codebases for surprises. Its lenses check predictability, convention, simplicity, and user experience. On six supported stacks, it also reviews code architecture. Every finding names the expectation that broke and proposes a fix.
+A Claude Code plugin that reviews plans, code changes, and whole codebases for surprises. Its lenses check predictability, convention, simplicity, and user experience. On six supported stacks, it also reviews code architecture. Every finding names the expectation that broke and proposes a fix. Formerly Intent Engineering.
 
-[Read about Intent Engineering](https://davidteren.github.io/intent-engineering/) · [Browse published reports](https://davidteren.github.io/intent-engineering/reports.html) · [Source](https://github.com/davidteren/intent-engineering)
+[Read about Expectation Fit](https://davidteren.github.io/expectation-fit/) · [Browse published reports](https://davidteren.github.io/expectation-fit/reports.html) · [Source](https://github.com/davidteren/expectation-fit)
 
 ### CurrentScope `beta` <sub>fig. 3</sub>
 
@@ -44,7 +44,7 @@ Authorization for Rails that lives in data you edit, not rules you hard-code. Pe
 
 ## How I work
 
-I like tools that expose the rule, show the evidence, and stay small enough to understand. Mutineer shows which changes your tests miss. Intent Engineering names the expectation a change breaks. CurrentScope puts access rules where people can read them.
+I like tools that expose the rule, show the evidence, and stay small enough to understand. Mutineer shows which changes your tests miss. Expectation Fit names the expectation a change breaks. CurrentScope puts access rules where people can read them.
 
 ## Elsewhere
 
